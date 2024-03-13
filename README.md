@@ -3,7 +3,7 @@
 	<img width="50%" src="images/code.gif" />
 	<hr />
 	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey,%20I%20am%20lovin1015!" /> <br />
-	<h1>Designs, coding, and writes about IT Security, AI/ML, research, and dev.<br> This site is where I share my experiences.</h1>
+	<h2>Designs, coding, and writes about IT Security, AI/ML, research, and dev.<br> This site is where I share my experiences.</h2>
 	<br />
   <div align="left">
     <p>🧐 I'm interested in Python back-end dev, Flask, Docker, K8</p>
