@@ -1,4 +1,4 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%20me%20introduce%20about%20me&descAlignY=55&descAlign=55" />
 <div align="center">
 	<img width="50%" src="images/code.gif" />
 	<hr />
