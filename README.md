@@ -26,8 +26,8 @@
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" width=160 height=40 /></a>
   <br />
 	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" width=160 height=40 /></a>
-	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" width=160 height=40 /></a>
-	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" width=160 height=40 /></a>
+	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-lovin1015@gmail.com-e06c75?style=social&logo=gmail" width=200 height=40 /></a>
+	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@lovin1015_ra-e06c75?style=social&logo=telegram" width=200 height=40 /></a>
 	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" width=160 height=40 /></a>
 	<br />
   <h5><hr>
@@ -47,7 +47,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunriseaigo&&theme=tokyonight" alt="Nick Bozikovski" /></p>
 	  <!-- wi*quL3fcV -->
-	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidansec&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br />
+<!-- 	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidansec&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
 	  <a href="https://www.buymeacoffee.com/zidansec"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zidansec&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 	  <br /><code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </div>
