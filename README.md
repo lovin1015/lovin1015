@@ -48,8 +48,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Nick Bozikovski" /></p>
 	  <!-- wi*quL3fcV -->
 <!-- 	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovin1015&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
-	  <a href="https://www.buymeacoffee.com/lovin1015"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lovin1015&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-	  <br /><code><a href="https://www.paypal.me/lovin1015"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </div>
   <br />
 
