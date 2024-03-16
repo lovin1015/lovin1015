@@ -19,7 +19,7 @@
   <h1>These sites are where I share my experience</h1>
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" width=160 height=40 /></a>
 	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" width=160 height=40 /></a>
-  <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" width=160 height=40 /></a>
+  	<a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" width=160 height=40 /></a>
 	<a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Build-Hugo-e06c75?style=flat&logo=hugo" width=160 height=40 /></a>
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" width=160 height=40 /></a>
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" width=160 height=40 /></a>
