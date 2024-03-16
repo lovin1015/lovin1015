@@ -26,15 +26,15 @@
   <br />
 	<a href="https://github.com/lovin1015"><img src="https://img.shields.io/github/followers/lovin1015?label=Github&style=social" width=160 height=40 /></a>
 	<a href="mailto:lovin1015@gmail.com/"><img src="https://img.shields.io/badge/Email-lovin1015@gmail.com-e06c75?style=social&logo=gmail" width=200 height=40 /></a>
-	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@lovin1015_ra-e06c75?style=social&logo=telegram" width=200 height=40 /></a>
+	<a href="https://t.me/@lovin1015s_ra"><img src="https://img.shields.io/badge/Telegram-@lovin1015_ra-e06c75?style=social&logo=telegram" width=200 height=40 /></a>
 	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" width=160 height=40 /></a>
 	<br />
   <h5><hr>
 	<h1>You can contact with me at: </h1><br><br>
-    <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook  </a></code>
+    <code><a href="https://www.facebook.com/lovin1015.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook  </a></code>
     <code><a href="https://www.twitter.com/lovin1015" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter  </a></code>
     <!--<code><a href="https://wa.me/0" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
-    <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram  </a></code>
+    <code><a href="https://www.instagram.com/lovin1015s_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram  </a></code>
     <br /><br />
   </h5>
 <h1>GitHub Stats</h1>
@@ -46,7 +46,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Nick Bozikovski" /></p>
 	  <!-- wi*quL3fcV -->
-<!-- 	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovin1015&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
+<!-- 	  <img href="https://lovin1015.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovin1015&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
 </div>
   <br />
 
