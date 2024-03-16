@@ -25,15 +25,15 @@
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" width=160 height=40 /></a>
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" width=160 height=40 /></a>
   <br />
-	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" width=160 height=40 /></a>
-	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-lovin1015@gmail.com-e06c75?style=social&logo=gmail" width=200 height=40 /></a>
+	<a href="https://github.com/lovin1015"><img src="https://img.shields.io/github/followers/lovin1015?label=Github&style=social" width=160 height=40 /></a>
+	<a href="mailto:lovin1015@gmail.com/"><img src="https://img.shields.io/badge/Email-lovin1015@gmail.com-e06c75?style=social&logo=gmail" width=200 height=40 /></a>
 	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@lovin1015_ra-e06c75?style=social&logo=telegram" width=200 height=40 /></a>
 	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" width=160 height=40 /></a>
 	<br />
   <h5><hr>
 	<h1>You can contact with me at: </h1><br><br>
     <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook  </a></code>
-    <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter  </a></code>
+    <code><a href="https://www.twitter.com/lovin1015" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter  </a></code>
     <!--<code><a href="https://wa.me/0" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
     <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram  </a></code>
     <br /><br />
@@ -41,22 +41,22 @@
 <h1>GitHub Stats</h1>
   <div align="center">
     <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunriseaigo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nick Bozikovski" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovin1015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nick Bozikovski" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sunriseaigo&show_icons=true&locale=en&theme=tokyonight" alt="Nick Bozikovski" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lovin1015&show_icons=true&locale=en&theme=tokyonight" alt="Nick Bozikovski" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunriseaigo&&theme=tokyonight" alt="Nick Bozikovski" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Nick Bozikovski" /></p>
 	  <!-- wi*quL3fcV -->
-<!-- 	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidansec&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
-	  <a href="https://www.buymeacoffee.com/zidansec"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zidansec&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-	  <br /><code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+<!-- 	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovin1015&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
+	  <a href="https://www.buymeacoffee.com/lovin1015"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lovin1015&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+	  <br /><code><a href="https://www.paypal.me/lovin1015"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </div>
   <br />
 <details>
 	<summary>Show All</summary>
   <br />
     <div align="center">
-<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="80%"/>
+<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=lovin1015&theme=discord" width="80%"/>
 </div>
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
