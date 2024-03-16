@@ -45,8 +45,6 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lovin1015&show_icons=true&locale=en&theme=tokyonight" alt="Nick Bozikovski" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Nick Bozikovski" /></p>
-	  <!-- wi*quL3fcV -->
-<!-- 	  <img href="https://lovin1015.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovin1015&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br /> -->
 </div>
   <br />
 
