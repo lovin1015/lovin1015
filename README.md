@@ -24,11 +24,11 @@
 <h1>GitHub Stats</h1>
   <div align="center">
     <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovin1015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nick Bozikovski" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovin1015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Haroshi Nakamura" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lovin1015&show_icons=true&locale=en&theme=tokyonight" alt="Nick Bozikovski" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lovin1015&show_icons=true&locale=en&theme=tokyonight" alt="Haroshi Nakamura" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Nick Bozikovski" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lovin1015&&theme=tokyonight" alt="Haroshi Nakamura" /></p>
 </div>
   <br />
 
